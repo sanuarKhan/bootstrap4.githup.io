@@ -1,0 +1,55 @@
+.bgImage{
+    background-image:url(images/bg-mastheadcopy.jpg);
+    background-size:cover;
+    background-position:;
+    width: 100%;
+    height: 100vh;
+
+ 
+}
+
+#hRow{
+    padding: 200px 20px 0px 0;
+}
+#hRow1{
+    padding: 100px 20px 100px 50px;
+
+}
+
+#showcase1{
+
+    height: 450px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(images/bg-showcase-1.jpg);
+}
+#showcase2{
+    
+    background-image: url(images/bg-showcase-2.jpg);
+    height: 450px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#showcase3{
+    
+    background-image: url(images/bg-showcase-3.jpg);
+    height: 483px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.col-6{
+     padding-top: 100px;
+     padding-left: 50px important!;
+     text-align: justify;
+}
+.contentCenter{
+    width: 75%;
+    padding: 20px 0px 148px 105px;
+}
+.bgImage1{
+    background-image:url(images/bg-mastheadcopy.jpg);
+    background-size:cover;
+    background-position: center;
+   width: 100%;
+   height: 60vh;
+}
